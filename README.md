@@ -12,12 +12,13 @@ sudo apt-get install -y libmaxminddb-dev
 
 # steps
 ```
+cd /usr/local/src
 git clone https://github.com/StratoxEnterprises/ngx_http_geoip2_module.git
 git clone https://github.com/StratoxEnterprises/nginx.git
 ```
 ```
 cd nginx
-git checkout feature/oxus-config-geoip
+git checkout feature/oxus-geoip
 ```
 
 ```
