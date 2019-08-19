@@ -2,6 +2,7 @@
 
 ## prerequsites
 ```
+sudo apt update
 sudo apt-get install -y build-essential
 sudo apt-get install -y libpcre3-dev zlib1g-dev libssl-dev libxslt1-dev
 sudo add-apt-repository -y ppa:maxmind/ppa
@@ -25,3 +26,4 @@ cd nginx/
 make
 make install
 ```
+  404  Not Found [IP: 104.24.117.209 80]
