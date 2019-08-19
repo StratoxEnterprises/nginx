@@ -15,7 +15,7 @@ git clone https://github.com/StratoxEnterprises/ngx_http_geoip2_module.git
 git clone https://github.com/StratoxEnterprises/nginx.git
 ```
 ```
-git checkout tags/release-1.10.3
+git checkout feature/oxus-config-geoip
 ```
 ```
 cd nginx/
