@@ -16,14 +16,12 @@ git clone https://github.com/StratoxEnterprises/ngx_http_geoip2_module.git
 git clone https://github.com/StratoxEnterprises/nginx.git
 ```
 ```
+cd nginx
 git checkout feature/oxus-config-geoip
 ```
-```
-cd nginx/
-```
+
 ```
 ./configure_me_better.sh
 make
 make install
 ```
-  404  Not Found [IP: 104.24.117.209 80]
